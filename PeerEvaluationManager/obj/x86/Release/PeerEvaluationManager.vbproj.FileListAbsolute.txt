@@ -1,1 +1,14 @@
 C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\bin\x86\Release\PeerEvaluationManager.exe.config
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\bin\x86\Release\PeerEvaluationManager.exe
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\bin\x86\Release\PeerEvaluationManager.pdb
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\bin\x86\Release\PeerEvaluationManager.xml
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\bin\x86\Release\MySql.Data.dll
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\bin\x86\Release\MySql.Data.xml
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.vbprojResolveAssemblyReference.cache
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.AddUser.resources
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.PeerEvaluationManager.resources
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.Resources.resources
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.vbproj.GenerateResource.Cache
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.exe
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.xml
+C:\Repositories\TankGame\TankGameCSE\PeerEvaluationManager\PeerEvaluationManager\obj\x86\Release\PeerEvaluationManager.pdb

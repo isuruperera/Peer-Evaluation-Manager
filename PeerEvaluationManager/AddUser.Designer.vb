@@ -48,9 +48,9 @@ Partial Class AddUser
         '
         'peerIndexNo
         '
-        Me.peerIndexNo.Location = New System.Drawing.Point(69, 10)
+        Me.peerIndexNo.Location = New System.Drawing.Point(70, 10)
         Me.peerIndexNo.Name = "peerIndexNo"
-        Me.peerIndexNo.Size = New System.Drawing.Size(202, 20)
+        Me.peerIndexNo.Size = New System.Drawing.Size(201, 20)
         Me.peerIndexNo.TabIndex = 1
         '
         'Label2
@@ -123,7 +123,7 @@ Partial Class AddUser
         '
         Me.peerStatus.FormattingEnabled = True
         Me.peerStatus.Items.AddRange(New Object() {"Incomplete", "Complete"})
-        Me.peerStatus.Location = New System.Drawing.Point(67, 141)
+        Me.peerStatus.Location = New System.Drawing.Point(70, 141)
         Me.peerStatus.Name = "peerStatus"
         Me.peerStatus.Size = New System.Drawing.Size(202, 21)
         Me.peerStatus.TabIndex = 12
@@ -139,9 +139,9 @@ Partial Class AddUser
         '
         'peerDate
         '
-        Me.peerDate.Location = New System.Drawing.Point(69, 115)
+        Me.peerDate.Location = New System.Drawing.Point(70, 115)
         Me.peerDate.Name = "peerDate"
-        Me.peerDate.Size = New System.Drawing.Size(200, 20)
+        Me.peerDate.Size = New System.Drawing.Size(202, 20)
         Me.peerDate.TabIndex = 14
         '
         'AddUser
